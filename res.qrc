@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="Doraemon">Doraemon.png</file>
+    </qresource>
+    <qresource prefix="/words">
+        <file alias="words">words.txt</file>
+    </qresource>
+</RCC>
