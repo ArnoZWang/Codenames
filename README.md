@@ -9,3 +9,4 @@ TO-DO LIST
 ·完善词库  
 ·联机功能  
   
+附可执行文件下载地址：http://pan.baidu.com/s/1kU5UfEB  
